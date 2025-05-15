@@ -1,5 +1,9 @@
 # ItauXPay
 
+<p align="center">
+  <img src="https://github.com/abraaoteixeira/ItauXPay/blob/main/logo-ItauXPay.png?raw=true" alt="Logo do ItauXPay" width="300" style="border-radius: 50px;" />
+</p>
+
 **ItauXPay** é uma API de pagamentos desenvolvida em C#/.NET, projetada para integrar sistemas de pagamento utilizando a API do Itaú e um banco de dados PostgreSQL. Este projeto tem como objetivo oferecer uma solução simples, eficiente e escalável para o gerenciamento de transações financeiras, fornecendo endpoints para processar, consultar e gerenciar pagamentos.
 
 ## Principais Funcionalidades
